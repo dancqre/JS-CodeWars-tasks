@@ -1,3 +1,3 @@
 # JS-CodeWars-tasks
 CodeWars studying////////
-Hello. Here i will post my CodeWars tasks and achievements 
+Hello. Here i will post my CodeWars tasks and achievements :)
